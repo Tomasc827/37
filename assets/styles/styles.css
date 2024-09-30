@@ -3,3 +3,29 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.svg__section2--size {
+    min-width: 40px;
+    min-height: 40px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+p,
+button,
+a,
+input,
+span {
+    font-family: "Inconsolata", monospace !important;
+}
+
+::placeholder {
+    font-family: "Inconsolata", monospace;
+}
